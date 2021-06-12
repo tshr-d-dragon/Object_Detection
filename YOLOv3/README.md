@@ -19,4 +19,6 @@ In this project, with the help of pretrained weights of YOLOv3 on MS COCO 2017 d
 
 ## Credits
 The credits for videos used for prediction goes to:
-1. 
+1. Video by <a href="https://pixabay.com/users/preditorcuts-4627334/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=32851">William Sevilla</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=32851">Pixabay</a>
+2. Video by <a href="https://pixabay.com/users/coverr-free-footage-1281706/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=6387">Coverr-Free-Footage</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=6387">Pixabay</a>
+3. Video by <a href="https://pixabay.com/users/lizmavor-11592643/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=21437">Elizabeth Mavor</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=21437">Pixabay</a>
