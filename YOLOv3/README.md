@@ -2,8 +2,9 @@
  
 In this project, with the help of pretrained weights of YOLOv3 on MS COCO 2017 dataset, we can detect 80 different objects. Pretrained weights and config files can be found at https://pjreddie.com/darknet/yolo/
 
-![pred_video1](https://github.com/tshr-d-dragon/Object_Detection/blob/main/YOLOv3/prediction/People_pred_YOLOv3.mp4)
-![pred_video2](https://github.com/tshr-d-dragon/Object_Detection/blob/main/YOLOv3/prediction/Los_Angeles_pred_YOLOv3.mp4)
+![Demo1](https://github.com/tshr-d-dragon/Object_Detection/blob/main/YOLOv3/prediction/People_pred_YOLOv3.gif)
+![Demo2](https://github.com/tshr-d-dragon/Object_Detection/blob/main/YOLOv3/prediction/Traffic_pred_YOLOv3.gif)
+![Demo3](https://github.com/tshr-d-dragon/Object_Detection/blob/main/YOLOv3/prediction/Los_Angeles_pred_YOLOv3.gif)
 
 ## Project Structure
 1. The file coco.names contains names of all the 80 classes present in MS COCO dataset
