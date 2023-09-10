@@ -1,0 +1,6 @@
+train: /content/Dataset/train
+val: /content/Dataset/val
+test: /content/Dataset/test
+
+nc: 1 
+names: ['helipad'] 
