@@ -1,0 +1,7 @@
+train: '/content/Dataset/train/images'
+#val: '/content/Dataset/val/images'
+val: '/content/Dataset/test/images'
+
+# class names
+names: 
+  0: 'fire'
